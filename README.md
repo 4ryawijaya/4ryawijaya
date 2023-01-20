@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @4ryawijaya
-- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning SQL, Python Data Manipulation, Tableau Data Visualization
-- 💞️ I’m looking to collaborate with data driven company
+- 💞️ Junior Data Engineer with lack of programming skill
 -  Open for remote work
 - 📫 How to reach me (email me)
 
