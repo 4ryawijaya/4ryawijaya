@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4ryawijaya
 - 🌱 I’m currently learning SQL, Python Data Manipulation, Tableau Data Visualization
-- 💞️ Junior Data Engineer with lack of programming skill
+- 💞️ Junior Data Engineer 
 -  Open for remote work
 - 📫 How to reach me (email me)
 
