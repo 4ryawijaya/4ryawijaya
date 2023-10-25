@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @4ryawijaya
-- 🌱 I’m currently learning SQL, Python Data Manipulation, Tableau Data Visualization
-- 💞️ Junior Data Engineer 
+- 🌱 My Journey to become fullstack developer
+- 💞️ Switch career to web developer
+- ON Going learning HTML and CSS
 -  Open for remote work
 - 📫 How to reach me (email me)
 
